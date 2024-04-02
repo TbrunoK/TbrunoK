@@ -92,10 +92,12 @@
 <br/>
 
   <!--Graphic animation-->
-<div align="center" >
-
-  ![Ashutosh's github activity graph](https://raw.githubusercontent.com/TbrunoK/assets/c7e0b542a1c269176cd7dd2be0a1675a13ed9b43/animation/graphic.svg) 
+<div align="center">
+ 
+  ![Ashutosh's github activity graph](https://raw.githubusercontent.com/TbrunoK/assets/7cebb9be52054916e59d77d71b1e3da87290d367/animation/TbrunoK.svg) 
+ 
   
+
 </div>
 
 <br/>
