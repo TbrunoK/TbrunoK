@@ -55,7 +55,7 @@
 
 <img align="left"  height="80" width="80" src="https://github.com/TbrunoK/assets/blob/main/imagens-logo/Css.png?raw=true">
 
-<img align="left"  height="80" width="80" src="https://github.com/TbrunoK/assets/blob/main/imagens-logo/javascript-1.svg">
+<img align="left"  height="80" width="80" src="https://raw.githubusercontent.com/TbrunoK/assets/c1eed2802221af3d9f27d7337aad3c139fa5a6f9/imagens-logo/javascript-1.svg">
 
 
 
