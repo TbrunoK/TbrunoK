@@ -25,7 +25,7 @@
 
 
 <div align="center"> 
-<a href="https://instagram.com/tbrunokr" target="_blank">
+<a href="https://instagram.com/tbrunok" target="_blank">
 <img align="center" height="84" width="84" src="https://github.com/TbrunoK/assets/blob/main/mini-logo/Instagram.png">
 </a>
 
