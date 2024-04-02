@@ -1,44 +1,47 @@
   <!-- Intro -->
 <div>
 ### Ola!!👋
-<br>
-<br>
+<br/>
+<br/>
 - 🌱 Estudando: Html, Css, Javascript
-<br>
-<br>
-- 📧 Conta-me no email: tbrunok@hotmail.com
-<br>
-<br>
+<br/>
+<br/>
+- 📧 Contate-me no email: tbrunok@hotmail.com
+<br/>
+<br/>
 </div>
 
   <!-- Html/Css/JavaScript Logo/links -->
 <div align="left"> 
+  <h1>linguagens</h1>
   
+  <div display
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   </a>
+  
 
-<br>
-<br>
+<br/>
+<br/>
 
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </a>
   
-<br>
-<br>
+<br/>
+<br/>
 
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
     <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   </a>
   
-<br>
-<br>
+<br/>
+<br/>
 
 </div>
 
-<br>
-<br>
+<br/>
+<br/>
 
   <!--Text auto -->
 
@@ -49,10 +52,10 @@
 </div>
 
 
-<br>
-<br>
-<br>
-<br>
+<br/>
+<br/>
+<br/>
+<br/>
 
   <!--Social media-->
 <div align="center"> 
@@ -73,19 +76,19 @@
 
 </div>
 
-<br>
-<br>
-<br>
-<br>
+<br/>
+<br/>
+<br/>
+<br/>
 
   <!--Streak-stats-->
 
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tbrunok&theme=dark&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
 
-<br>
-<br>
-<br>
-<br>
+<br/>
+<br/>
+<br/>
+<br/>
 
   <!--Graphic animation-->
 <div align="center" >
@@ -94,10 +97,10 @@
   
 </div>
 
-<br>
-<br>
-<br>
-<br>
+<br/>
+<br/>
+<br/>
+<br/>
 
    <!--Studying-->
 <div align="center"> 
@@ -120,18 +123,17 @@
    
 </div>
 
-<br>
-<br>
-<br>
-<br>
+<br/>
+<br/>
+<br/>
+<br/>
 
 <div align="center">
   
-<br>
-<br>
-<br>
-<br>
-
+<br/>
+<br/>
+<br/>
+<br/>
       <!--Visitors-->
   <p align="centre"><b>Visitors Count</b></p> 
   
