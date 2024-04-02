@@ -1,7 +1,5 @@
 ### Ola!!👋
 
-
-
 - 🌱 Estudando: Html, Css, Javascript
 - 📧 Conta-me no email: tbrunok@hotmail.com
 
@@ -13,12 +11,79 @@
 <br>
 <br>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=0000CDcenter=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Bruno;I'm+29+years+old;I'm+a+Software+Developer;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=0000CDcenter=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Bruno;I'm+29+years+old;I'm+a+Web+Developer;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
+
 </div>
 
 <div>
+<div align="center">
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TbrunoK&bg_color=030e45&color=ffffff&line=0906e0&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tbrunok&theme=dark&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
   
 </div>
+
+
+
+<div align="center"> 
+<a href="https://instagram.com/carol_developer" target="_blank">
+<img align="center" height="84" width="84" src="https://github.com/TbrunoK/assets/blob/main/mini-logo/Instagram.png">
+</a>
+
+
+<a href="mailto:tbrunok@hotmail.com">
+<img align="center"  height="80" width="80" src="https://github.com/TbrunoK/assets/blob/main/mini-logo/e-mail.png">
+</a>
+
+
+<a  href="https://www.linkedin.com/in/tbrunok/" target=_blank>
+<img align="center"  height="80" width="80" src="https://github.com/TbrunoK/assets/blob/main/mini-logo/linkedin.png">
+</a>
+
+</div>
+
+<div align="center" >
+   
+![Ashutosh's github activity graph](https://github.com/TbrunoK/assets/blob/main/animation/graphic.svg) 
+
+</div>
+
+
+<h2 align="left"> Studying in this moment: </h2>
+<div align="left"> 
+
+<img align="left" height="80" width="80" src="https://github.com/TbrunoK/assets/blob/main/imagens-logo/Html.png?raw=true">
+
+<img align="left"  height="80" width="80" src="https://github.com/TbrunoK/assets/blob/main/imagens-logo/Css.png?raw=true">
+
+<img align="left"  height="80" width="80" src="https://github.com/TbrunoK/assets/blob/main/imagens-logo/javascript-1.svg">
+
+
+
+</div>
+
+<br>
+<br> 
+<br>
+<br>
+<br>
+<br> 
+
+
+
+<div align="center">
+  
+<br>
+<br>
+<br>
+<br>
+
+<p align="centre"><b>Visitors Count</b></p> 
+  
+<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Ftbrunok&s=50&c=db006a&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
+<br>
+</div>
+
+
+
+
 
