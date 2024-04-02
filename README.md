@@ -14,7 +14,7 @@
   <!-- Html/Css/JavaScript Logo/links -->
 <div align="left"> 
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=0000CDcenter=true&vCenter=true&random=false&width=1000&lines=Linguagens;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=3000&pause=500&random=false&width=435&lines=Linguagens)](https://git.io/typing-svg)
   
   
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
@@ -47,7 +47,7 @@
 
 <div>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=0000CDcenter=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Bruno;I'm+a+Web+Developer;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=3000&pause=500&random=false&width=435&lines=welcome%3A;hello%2C++my+name+is+Bruno;i'm+a+Web+Developer)](https://git.io/typing-svg)
 
 </div>
 
