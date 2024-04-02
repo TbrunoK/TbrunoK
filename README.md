@@ -16,16 +16,16 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=0000CDcenter=true&vCenter=true&random=false&width=1000&lines=Linguagens;)](https://git.io/typing-svg)
   
-  <div display
+  
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   </a>
   
 
 <br/>
 <br/>
 
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </a>
   
