@@ -43,7 +43,7 @@
 
 <div align="center" >
    
-![Ashutosh's github activity graph](https://github.com/TbrunoK/assets/blob/main/animation/graphic.svg) 
+![Ashutosh's github activity graph](https://raw.githubusercontent.com/TbrunoK/assets/c7e0b542a1c269176cd7dd2be0a1675a13ed9b43/animation/graphic.svg) 
 
 </div>
 
