@@ -21,7 +21,6 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   </a>
   
-
 <br/>
 <br/>
 
@@ -51,7 +50,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=0000CDcenter=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Bruno;I'm+a+Web+Developer;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
 
 </div>
-
 
 <br/>
 <br/>
@@ -96,8 +94,6 @@
  
   ![Ashutosh's github activity graph](https://raw.githubusercontent.com/TbrunoK/assets/7cebb9be52054916e59d77d71b1e3da87290d367/animation/TbrunoK.svg) 
  
-  
-
 </div>
 
 <br/>
@@ -123,7 +119,6 @@
   </a>
    <img align="center">
 
-   
 </div>
 
 <br/>
@@ -137,7 +132,7 @@
 <br/>
 <br/>
 <br/>
-      <!--Visitors-->
+  <!--Visitors-->
   <p align="centre"><b>Visitors Count</b></p> 
   
   <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Ftbrunok&s=50&c=db006a&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
