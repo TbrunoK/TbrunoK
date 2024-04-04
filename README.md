@@ -43,8 +43,7 @@
 <br/>
 <br/>
 
-  <!--Text auto -->
-
+  <!--Text auto: intro -->
 <div>
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=3000&pause=500&random=false&width=435&lines=welcome%3A;hello%2C++my+name+is+Bruno;i'm+a+Web+Developer)](https://git.io/typing-svg)
@@ -93,6 +92,8 @@
 <div align="center"> 
     
   <h2 align="center"> Studying at this moment: </h2>
+
+  
   
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
    <img align="left" height="80" width="80" src="https://github.com/TbrunoK/assets/blob/main/imagens-logo/Html.png?raw=true">
@@ -109,8 +110,14 @@
 
 </div>
 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
   <!--Graphic animation-->
 <div align="center">
+  <h2>Commits</h2>
  
   ![Ashutosh's github activity graph](https://raw.githubusercontent.com/TbrunoK/assets/7cebb9be52054916e59d77d71b1e3da87290d367/animation/TbrunoK.svg) 
  
