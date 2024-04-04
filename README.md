@@ -19,7 +19,7 @@
 <div display-inline="block">
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  HTML
+    HTML
   </a>
 </div>
   
@@ -101,11 +101,10 @@
     
   <h2 align="center"> Studying at this moment: </h2>
 
-  
-  
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
    <img align="left" height="80" width="80" src="https://github.com/TbrunoK/assets/blob/main/imagens-logo/Html.png?raw=true">
   </a>
+  
 
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
    <img align="left"  height="80" width="80" src="https://github.com/TbrunoK/assets/blob/main/imagens-logo/Css.png?raw=true">
@@ -131,8 +130,6 @@
  
 </div>
 
-<br/>
-<br/>
 <br/>
 <br/>
 
