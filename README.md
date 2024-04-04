@@ -89,18 +89,6 @@
 <br/>
 <br/>
 
-  <!--Graphic animation-->
-<div align="center">
- 
-  ![Ashutosh's github activity graph](https://raw.githubusercontent.com/TbrunoK/assets/7cebb9be52054916e59d77d71b1e3da87290d367/animation/TbrunoK.svg) 
- 
-</div>
-
-<br/>
-<br/>
-<br/>
-<br/>
-
    <!--Studying-->
 <div align="center"> 
     
@@ -119,6 +107,13 @@
   </a>
    <img align="center">
 
+</div>
+
+  <!--Graphic animation-->
+<div align="center">
+ 
+  ![Ashutosh's github activity graph](https://raw.githubusercontent.com/TbrunoK/assets/7cebb9be52054916e59d77d71b1e3da87290d367/animation/TbrunoK.svg) 
+ 
 </div>
 
 <br/>
