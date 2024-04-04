@@ -32,7 +32,7 @@
 <br/>
 
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
-    <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/TbrunoK/assets/7cebb9be52054916e59d77d71b1e3da87290d367/imagens-logo/javascript-1.svg">
   </a>
   
 <br/>
