@@ -113,6 +113,11 @@
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
    <img align="left"  height="80" width="80" src="https://raw.githubusercontent.com/TbrunoK/assets/c7e0b542a1c269176cd7dd2be0a1675a13ed9b43/imagens-logo/javascript-1.svg">
   </a>
+   
+
+   <a href="https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started">
+   <img align="left" height="80" width="80" src="https://raw.githubusercontent.com/TbrunoK/assets/f72b7f23ba0c7197332f561e1264d95c8b7b3726/imagens-logo/react.svg">
+   <a/>
    <img align="center">
 
 </div>
