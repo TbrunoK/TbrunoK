@@ -131,7 +131,7 @@
 <div align="center">
   <h2>Commits</h2>
  
-  ![Ashutosh's github activity graph](https://raw.githubusercontent.com/TbrunoK/assets/7cebb9be52054916e59d77d71b1e3da87290d367/animation/TbrunoK.svg) 
+  ![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/TbrunoK?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=2&animation=mess&animation_duration=4&animation_loop=true&format=svg&weeks=30&theme=green&dark=true) 
  
 </div>
 
