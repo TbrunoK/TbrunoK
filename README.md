@@ -102,21 +102,21 @@
   <h2 align="center"> Studying at this moment: </h2>
 
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
-   <img align="left" height="80" width="80" src="https://github.com/TbrunoK/assets/blob/main/imagens-logo/Html.png?raw=true">
+   <img align="center" height="80" width="80" src="https://github.com/TbrunoK/assets/blob/main/imagens-logo/Html.png?raw=true">
   </a>
   
 
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
-   <img align="left"  height="80" width="80" src="https://github.com/TbrunoK/assets/blob/main/imagens-logo/Css.png?raw=true">
+   <img align="center"  height="80" width="80" src="https://github.com/TbrunoK/assets/blob/main/imagens-logo/Css.png?raw=true">
   </a>
 
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
-   <img align="left"  height="80" width="80" src="https://raw.githubusercontent.com/TbrunoK/assets/c7e0b542a1c269176cd7dd2be0a1675a13ed9b43/imagens-logo/javascript-1.svg">
+   <img align="center"  height="80" width="80" src="https://raw.githubusercontent.com/TbrunoK/assets/c7e0b542a1c269176cd7dd2be0a1675a13ed9b43/imagens-logo/javascript-1.svg">
   </a>
    
 
    <a href="https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started">
-   <img align="left" height="80" width="80" src="https://raw.githubusercontent.com/TbrunoK/assets/f72b7f23ba0c7197332f561e1264d95c8b7b3726/imagens-logo/react.svg">
+   <img align="center" height="80" width="80" src="https://raw.githubusercontent.com/TbrunoK/assets/f72b7f23ba0c7197332f561e1264d95c8b7b3726/imagens-logo/react.svg">
    <a/>
    <img align="center">
 
@@ -127,11 +127,11 @@
 <br/>
 <br/>
 <br/>
-  <!--Graphic animation-->
+  <!--Graphic animation
 <div align="center">
   <h2>Commits</h2>
  
-  ![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/TbrunoK?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=2&animation=mess&animation_duration=4&animation_loop=true&format=svg&weeks=30&theme=green&dark=true) 
+  ![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/TbrunoK?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=2&animation=mess&animation_duration=4&animation_loop=true&format=svg&weeks=30&theme=green&dark=true) -->
  
 </div>
 
@@ -145,7 +145,7 @@
 <br/>
 <br/>
   <!--Visitors-->
-  <p align="centre"><b>Visitors Count</b></p> 
+  <p align="center"><b>Visitors Count</b></p> 
   
   <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Ftbrunok&s=50&c=db006a&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
 <br>
