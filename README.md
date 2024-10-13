@@ -5,10 +5,6 @@
 <p align="left">
 Neste espaço, você encontrará diversos projetos que refletem minha trajetória e meus interesses. Sinta-se à vontade para explorar, contribuir ou entrar em contato para discutir ideias e colaborações. Agradeço a sua visita e espero que o conteúdo aqui seja útil e inspirador.
 </p>
-
-
-
-Neste espaço, você encontrará diversos projetos que refletem minha trajetória e meus interesses. Sinta-se à vontade para explorar, contribuir ou entrar em contato para discutir ideias e colaborações. Agradeço a sua visita e espero que o conteúdo aqui seja útil e inspirador.
   
 <br/>
 <br/>
