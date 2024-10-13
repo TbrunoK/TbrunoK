@@ -16,6 +16,8 @@ Neste espaço, você encontrará diversos projetos que refletem minha trajetóri
 <br/>
 </div>
 
+<br/>
+<br/>
   <!-- Html/Css/JavaScript Logo/links -->
 <div align="left"> 
 
