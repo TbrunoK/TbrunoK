@@ -1,6 +1,15 @@
   <!-- Intro -->
 <div>
-### Ola!!👋
+<h1 align="left">Olá, meu nome é Bruno. Seja bem-vindo ao meu repositório.</h1>
+
+<p align="left">
+Neste espaço, você encontrará diversos projetos que refletem minha trajetória e meus interesses. Sinta-se à vontade para explorar, contribuir ou entrar em contato para discutir ideias e colaborações. Agradeço a sua visita e espero que o conteúdo aqui seja útil e inspirador.
+</p>
+
+
+
+Neste espaço, você encontrará diversos projetos que refletem minha trajetória e meus interesses. Sinta-se à vontade para explorar, contribuir ou entrar em contato para discutir ideias e colaborações. Agradeço a sua visita e espero que o conteúdo aqui seja útil e inspirador.
+  
 <br/>
 <br/>
 - 🌱 Estudando: Html, Css, Javascript
@@ -54,7 +63,7 @@
   <!--Text auto: intro -->
 <div>
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=3000&pause=500&random=false&width=435&lines=welcome%3A;hello%2C++my+name+is+Bruno;i'm+a+Web+Developer)](https://git.io/typing-svg)
+
 
 </div>
 
